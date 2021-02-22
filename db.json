@@ -1,0 +1,81 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Andi",
+            "school": "SMA 2 Cianjur",
+            "competition": "Biology",
+            "phone": "08999565655"
+        },
+        {
+            "id": 2,
+            "name": "Ryan",
+            "school": "SMA 2 Padang",
+            "competition": "Physic",
+            "phone": "08999565612"
+        },
+        {
+            "id": 3,
+            "name": "Mamet",
+            "school": "SMA 2 Kalideres",
+            "competition": "Mathematic",
+            "phone": "08999512255"
+        },
+        {
+            "id": 4,
+            "name": "Keanu",
+            "school": "SMA 2 Jakarta",
+            "competition": "Chemistry",
+            "phone": "08999545255"
+        },
+        {
+            "id": 5,
+            "name": "Liam",
+            "school": "SMA 2 Jombang",
+            "competition": "Mathematic",
+            "phone": "08989512255"
+        },
+        {
+            "id": 6,
+            "name": "Juju",
+            "school": "SMA 2 Bekasi",
+            "competition": "Physic",
+            "phone": "08999514455"
+        },
+        {
+            "id": 7,
+            "name": "Arya",
+            "school": "SMA 2 Bali",
+            "competition": "Biology",
+            "phone": "089995134335"
+        },
+        {
+            "id": 8,
+            "name": "Rizki",
+            "school": "SMA 2 Bogor",
+            "competition": "Biology",
+            "phone": "08992343255"
+        },
+        {
+            "id": 9,
+            "name": "Bambang",
+            "school": "SMA 2 Depok",
+            "competition": "Physic",
+            "phone": "08999519875"
+        },
+        {
+            "id": 10,
+            "name": "Abdul",
+            "school": "SMA 2 Batam",
+            "competition": "Chemistry",
+            "phone": "08999452255"
+        },
+        {
+            "id": 11,
+            "name": "Jon",
+            "school": "SMA 2 Riau",
+            "competition": "Physic",
+            "phone": "08993312255"
+        }
+    ]
+}
